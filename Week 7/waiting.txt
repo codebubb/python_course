@@ -1,0 +1,10 @@
+(lp0
+S'Patient1'
+p1
+aS'Patient2'
+p2
+aS'Charles'
+p3
+aS'Sandra'
+p4
+a.

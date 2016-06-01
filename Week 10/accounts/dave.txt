@@ -1,0 +1,14 @@
+(dp0
+S'interest_rate'
+p1
+F1.2
+sS'balance'
+p2
+I1000
+sS'last_savings_time'
+p3
+F1460055832.821
+sS'transactions'
+p4
+(lp5
+s.

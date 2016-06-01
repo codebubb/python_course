@@ -1,0 +1,10 @@
+(dp0
+S'account_type'
+p1
+S'savings_account'
+p2
+sS'pin'
+p3
+S'81dc9bdb52d04dc20036dbd8313ed055'
+p4
+s.
